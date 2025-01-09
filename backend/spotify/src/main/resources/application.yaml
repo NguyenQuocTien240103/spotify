@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/spotify
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+server:
+  servlet:
+    context-path: /api
+
+security:
+  jwt:
+    secret-key: "22vnCND9MMjgit3AoNXzNuM2wUF+Da4dIsDKwTzk6YCy1Jtt47ns4X1+Fa95ZlCc"
+    expiration: 86400
+    refresh-expiration: 604800
+
+# CORS

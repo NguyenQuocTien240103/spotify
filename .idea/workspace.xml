@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28d11893-9678-478b-bee1-17c8a7f35b2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../identity-service/src/main/java/com/project/identity_service/service/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/LaptopshopApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/config/SecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/controller/admin/DashBoardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/controller/admin/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/controller/admin/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/controller/client/HomePageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/controller/client/ItemController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/domain/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/domain/OrderDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/domain/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/domain/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/domain/dto/RegisterDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/repository/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/service/CustomUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/service/UploadService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/service/validator/RegisterChecked.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/service/validator/RegisterValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/service/validator/StrongPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/vn/hoidanit/laptopshop/service/validator/StrongPasswordValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/admin/dashboard/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/admin/layout/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/admin/layout/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/admin/layout/sidebar.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/admin/product/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/admin/product/product-table.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/admin/product/update-product.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/admin/user/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/admin/user/update-user.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/admin/user/user-detail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/admin/user/user-table.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/client/auth/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/client/auth/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/client/homepage/show.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/client/layout/banner.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/client/layout/feature.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/client/layout/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/client/layout/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/WEB-INF/view/client/product/shop-detail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/assets/demo/chart-area-demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/assets/demo/chart-bar-demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/assets/demo/chart-pie-demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/assets/demo/datatables-demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/assets/img/error-404-monochrome.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/baner-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/banner-fruits.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/best-product-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/best-product-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/best-product-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/best-product-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/best-product-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/best-product-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/cart-page-header-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/featur-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/featur-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/featur-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/fruite-item-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/fruite-item-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/fruite-item-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/fruite-item-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/fruite-item-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/fruite-item-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/hero-img-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/hero-img-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/hero-img-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/hero-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/payment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/single-item.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/vegetable-item-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/vegetable-item-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/vegetable-item-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/vegetable-item-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/vegetable-item-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/img/vegetable-item-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/easing/easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/easing/easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/lightbox/css/lightbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/lightbox/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/lightbox/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/lightbox/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/lightbox/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/lightbox/js/lightbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/owlcarousel/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/owlcarousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/owlcarousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/owlcarousel/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/owlcarousel/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/owlcarousel/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/owlcarousel/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/owlcarousel/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/owlcarousel/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/owlcarousel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/owlcarousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/waypoints/links.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/client/lib/waypoints/waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/images/avatar/1726152167257-IMG_7820.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/images/product/1726237715322-IMG_7634.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/js/datatables-simple-demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/webapp/resources/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/vn/hoidanit/laptopshop/LaptopshopApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Enum" />
+        <option value="com.intellij.jpb.JpaRepository" />
+        <option value="Exception" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2rbwFv8otBvVcU66xvhUfpYje48" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.StayFinderApplication.executor": "Run",
+    "git-widget-placeholder": "ff027b46",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/scamq/OneDrive/Desktop/project/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="StayFinderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="stayfinder" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.project.stayfinder.StayFinderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28d11893-9678-478b-bee1-17c8a7f35b2c" name="Changes" comment="" />
+      <created>1736840983759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736840983759</updated>
+      <workItem from="1736840986244" duration="2707000" />
+      <workItem from="1736907884873" duration="2194000" />
+      <workItem from="1736936580322" duration="9715000" />
+      <workItem from="1736991191403" duration="8007000" />
+      <workItem from="1737083106354" duration="1192000" />
+      <workItem from="1737123736466" duration="593000" />
+      <workItem from="1737211084645" duration="2272000" />
+      <workItem from="1737293579561" duration="5048000" />
+      <workItem from="1737380568447" duration="1528000" />
+      <workItem from="1737382441644" duration="1242000" />
+      <workItem from="1737465953860" duration="2749000" />
+      <workItem from="1737470391380" duration="977000" />
+      <workItem from="1737513348022" duration="4791000" />
+      <workItem from="1737553365195" duration="3526000" />
+      <workItem from="1737604675800" duration="10875000" />
+      <workItem from="1737682631040" duration="477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
